@@ -26,7 +26,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
     cors({
-        origin: "https://gurukul-lms.vercel.app/",
+        origin: "https://gurukul-lms.vercel.app",
         credentials:true,
     })
 );
