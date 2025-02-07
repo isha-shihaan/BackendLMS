@@ -84,7 +84,7 @@ exports.otpTemplate = (otp) => {
 				Once your account is verified, you will have access to our platform and its features.</p>
 			</div>
 			<div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
-					href="mailto:ishamaji002002966@gmail.com">ishamaji002002@gmail.com</a>. We are here to help!</div>
+					href="mailto:support@shihaantech.com">support@shihaantech.com</a>. We are here to help!</div>
 		</div>
 	</body>
 	
