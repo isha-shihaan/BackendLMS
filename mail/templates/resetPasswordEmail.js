@@ -71,8 +71,8 @@ exports.resetPasswordEmail = ( url) => {
 
       <body>
           <div class="container">
-              <img src="https://res.cloudinary.com/decy8488i/image/upload/v1736176399/test/wsicp0gmaauflyh8f9pl.png" 
-                   alt="StudyNotion Logo"/>
+              <img src="https://res.cloudinary.com/decy8488i/image/upload/v1738934469/StudyNotion/ffnlro4jedazxikyzorp.png" 
+                   alt="Gurukul Logo"/>
               <div class="message">Reset Your Password</div>
               <div class="body">
                   <p>Dear User,</p>
@@ -81,7 +81,7 @@ exports.resetPasswordEmail = ( url) => {
                   <p>If you didn’t request a password reset, please ignore this email or contact support if you have questions.</p>
               </div>
               <div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
-                      href="mailto:info@studynotion.com">info@studynotion.com</a>. We are here to help!</div>
+                      href="mailto:support@shihaantech.com">support@shihaantech.com</a>. We are here to help!</div>
           </div>
       </body>
 
