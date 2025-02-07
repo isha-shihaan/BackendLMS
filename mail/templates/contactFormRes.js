@@ -79,8 +79,8 @@ exports.contactUsEmail = (
     
     <body>
         <div class="container">
-        <img src= "https://res.cloudinary.com/decy8488i/image/upload/v1736176399/test/wsicp0gmaauflyh8f9pl.png"
-			alt="StudyNotion Logo"/>   
+       <img src="https://res.cloudinary.com/decy8488i/image/upload/v1738934469/StudyNotion/ffnlro4jedazxikyzorp.png" 
+                   alt="Gurukul Logo"/>
         <div class="message">Contact Form Confirmation</div>
             <div class="body">
                 <p>Dear ${firstName} ${lastName},</p>
@@ -94,7 +94,7 @@ exports.contactUsEmail = (
                 <p>We appreciate your interest and will get back to you shortly. </p>
             </div>
             <div class="support">If you have any further questions or need immediate assistance, please feel free to reach
-                out to us at <a href="mailto:info@studynotion.com">info@studynotion.com</a>. We are here to help!</div>
+                out to us at <a href="mailto:support@shihaantech.com">support@shihaantech.com</a>. We are here to help!</div>
         </div>
     </body>
     
