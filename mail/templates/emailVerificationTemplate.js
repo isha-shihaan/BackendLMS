@@ -72,7 +72,7 @@ exports.otpTemplate = (otp) => {
 	
 	<body>
 		<div class="container">
-		<img src="https://res.cloudinary.com/decy8488i/image/upload/v1736176399/test/wsicp0gmaauflyh8f9pl.png" 
+		<img src="https://res.cloudinary.com/decy8488i/image/upload/v1738934469/StudyNotion/ffnlro4jedazxikyzorp.png" 
                    alt="StudyNotion Logo"/>
 			<div class="message">OTP Verification Email</div>
 			<div class="body">
